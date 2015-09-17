@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "HelloWorld"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-HelloWorld-ec383936-0a8c-42c7-8ca3-dbef62f4d726;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
