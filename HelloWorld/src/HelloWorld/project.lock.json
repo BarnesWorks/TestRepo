@@ -4722,7 +4722,7 @@
     "System.AppContext/4.0.1-beta-23225": {
       "type": "package",
       "serviceable": true,
-      "sha512": "S8+sHFDTfNOGTlkHeTZwHhCH9XaheLSlbBBusAUq0vvNZ5wZ7vnO/oacHik2F278jnpyG/Fvd8tJ1A+7ASzOoA==",
+      "sha512": "03NTwup0I8z+W7/tRV/oAKl7A0NA/cvn+ewOBIaZfdMAoOwhpbQ2Vog3pGh2mxA2LujHM4C/G6gjvH9XTs0koQ==",
       "files": [
         "lib/DNXCore50/System.AppContext.dll",
         "lib/MonoAndroid10/_._",
@@ -5080,7 +5080,7 @@
     "System.Diagnostics.Process/4.0.0-beta-23225": {
       "type": "package",
       "serviceable": true,
-      "sha512": "Pt6QAiXPNKIobDWHcNqX/wz6+YaTqqxw7f245sX1lz4rZxCmGwlUI0yhV/fXXvT7iPJRDLXSEXTnS3F8GsxK9g==",
+      "sha512": "yBIP0ts5Msh3QoiaseqPrc6Sh4e3t3iR9Spd7aVrfJZqUtq0cX96txwL+K/1R594IgN53I2hKpmLhHdWVRk1qA==",
       "files": [
         "lib/DNXCore50/System.Diagnostics.Process.dll",
         "lib/MonoAndroid10/_._",
@@ -5298,7 +5298,7 @@
     "System.IO.Compression/4.0.1-beta-23225": {
       "type": "package",
       "serviceable": true,
-      "sha512": "PmHvxlOO+IlMC39PF8K9TU81vsuDMUvZz2gZtRp05Wr1r32mbHXhXaphgI2GH57pjn0nTfdItMp0tsN5BUYC6w==",
+      "sha512": "Mt6BZV0ynZl+mkvJaPKDfC0PwgwkjJaZCijVtzB6xG+S0p6EELwumXE0J9vorWELs9XF4hiyz8eroBBWI2e7nA==",
       "files": [
         "lib/dotnet/System.IO.Compression.dll",
         "lib/MonoAndroid10/_._",
@@ -5998,7 +5998,7 @@
     "System.Runtime.Loader/4.0.0-beta-23225": {
       "type": "package",
       "serviceable": true,
-      "sha512": "PUi73z1QNhQ7+9ilIo3LpmGBUbY0+OwKs8gQQiYs13ADxu+EdBBztFUjZf6Mn2cADEYkEEqR25u0NL+ycfRRBg==",
+      "sha512": "46gpngFQDBpKswZCayyLXSd3Ub1Oy5swEs2PKFFOxWjc9DLI9/HL12jvGTvPG99TpudH9xw8/Nj9BQtPFQDOFA==",
       "files": [
         "lib/DNXCore50/System.Runtime.Loader.dll",
         "ref/dotnet/System.Runtime.Loader.dll",
@@ -6231,7 +6231,7 @@
     "System.Security.SecureString/4.0.0-beta-23225": {
       "type": "package",
       "serviceable": true,
-      "sha512": "fWZiVly2v05MLJFbtJBwThJmSQAh1slsEUqVxjy/K58RWHN8ar8BNz/1h318eHNd5vcTA7155awMNNMzY/Cbag==",
+      "sha512": "yeh8SaUJQx7BsyqntzyU0jnnKso5US6QX2g6eHBLC1MRb7swwFb12Bd4N7RwSslEaj6LLWzFKb4Lw8AMaWfXbA==",
       "files": [
         "lib/DNXCore50/System.Security.SecureString.dll",
         "lib/MonoAndroid10/_._",
@@ -6491,7 +6491,7 @@
     "System.Xml.ReaderWriter/4.0.11-beta-23225": {
       "type": "package",
       "serviceable": true,
-      "sha512": "F3Je/tzoKJiljukXp2g1CWBFnHM6Srlu8CrtBAohRNr0OisM7mK3G6x0X0hHigjEMmsIGT3NVEf3qkf39Mhpcg==",
+      "sha512": "ObCcU3hOf8Cbn3BwzUjxbaqa+UnSVN6bxf5l9A9iVrzuzbYUkVkjB+/JN/O5lmwpYwiKzYO5fv91O53PZ0hgXw==",
       "files": [
         "lib/dotnet/System.Xml.ReaderWriter.dll",
         "lib/MonoAndroid10/_._",
