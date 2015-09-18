@@ -10,4 +10,4 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 export SET DNX_APPBASE="$DIR/approot/src/HelloWorld"
 
-exec "$DIR/approot/runtimes/dnx-coreclr-win-x64.1.0.0-beta7/bin/dnx" --appbase "$DNX_APPBASE" Microsoft.Dnx.ApplicationHost --configuration Debug web "$@"
+exec "$DIR/approot/runtimes/dnx-coreclr-win-x86.1.0.0-beta7/bin/dnx" --appbase "$DNX_APPBASE" Microsoft.Dnx.ApplicationHost --configuration Debug web "$@"
