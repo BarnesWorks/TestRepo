@@ -4,7 +4,7 @@
   ],
   "sdk": {
     "version": "1.0.0-beta7",
-    "runtime": "clr",
+    "runtime": "coreclr",
     "architecture": "x86"
   },
   "packages": "packages"
